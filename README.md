@@ -3,4 +3,4 @@
 
 A fast food full service delivery system platform template for who ever is interested in restaurant web pages.
 
-> Call +260973077465
+> mail bartwelmwanza7@gmail.com
